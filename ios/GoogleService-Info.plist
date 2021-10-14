@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>652222394991-32iotal83hf41j377gc0jtgk1m5ndfhg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.652222394991-32iotal83hf41j377gc0jtgk1m5ndfhg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBs_cEK5bMzknABUbXd2PwpsZfTFJ1KlWY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>652222394991</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.BlackBoxStocks.MobileApp</string>
+	<key>PROJECT_ID</key>
+	<string>blackboxstocks-3c8e2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>blackboxstocks-3c8e2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:652222394991:ios:48ab2e95f98b9323c0539a</string>
+</dict>
+</plist>
